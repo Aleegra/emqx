@@ -116,7 +116,9 @@ Visiting [EMQ X FAQ](https://docs.emqx.io/en/broker/latest/faq/faq.html) to get 
 
 ### Questions
 
-[GitHub Discussions](https://github.com/emqx/emqx/discussions) is where you can ask questions, and share ideas.
+- [GitHub Discussions](https://github.com/emqx/emqx/discussions) is where you can ask questions, and share ideas.
+
+- Join [Slack Channel](https://join.slack.com/t/emqx/shared_invite/zt-7xrracuf-GGdbNB1pARtaZKvv6IfTvw) or [Discord Server](https://discord.gg/C2zpUvPnRC) to discuss questions related to EMQ X. 
 
 ### Proposals
 
